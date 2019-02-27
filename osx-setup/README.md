@@ -124,8 +124,27 @@ Get the lastest version available:
 brew install node
 ```
 
+# Git 📖
+Git is a distributed version-control system for tracking changes in source code during software development.
+
+```
+brew install git
+```
+
+Then set your user name and email address. This is important because every Git commit uses this information:
+
+```
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
+
+Optionally, set **VS Code** as default Git editor
+```
+git config --global core.editor "code --wait"
+```
+
 # Visual Studio Code ⌨
-**Visual Studio Code** is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js.
+**VS Code** is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js.
 
 Install it from the official website [here](https://code.visualstudio.com/).
 
