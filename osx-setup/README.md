@@ -52,9 +52,7 @@ Then, update your list of plugins to include `hyperterm-atom-dark` beautiful the
 plugins: [
   'hyperterm-atom-dark'
 ],
-```
-
-You can show/hide quickly your terminal with hotkey thanks to that hyper plugin 
+``` 
 
 Fully reload HyperTerm with `Cmd+Shift+R`.
 
@@ -136,7 +134,7 @@ Follow these [instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Inst
 # Bonus 💯
 You can show/hide quickly your terminal with hotkeys thanks to that **Hyper** [plugin](https://github.com/CWSpear/hyperterm-visor)
 
-Or even better you can use custom gesture like 3 fingers Swipe down to show up the terminal and 3 fingers Swipe up to hide it.
+Or even better you can use custom gesture like _3 fingers Swipe down_ to show up the terminal and _3 fingers Swipe up_ to hide it.
 
 Take a look on **BetterTouchTool** and that [post](https://www.howtogeek.com/364227/how-to-customize-mac-trackpad-gestures-with-bettertouchtool/) to do so
 
